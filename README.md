@@ -35,16 +35,14 @@ This Gmail Add-on leverages Google’s **Gemini API** and **Apps Script** to pro
 ## 📽️ Demo
 
 📺 Watch a walkthrough of the extension in action:  
-**[Demo Video →](https://your-demo-link.com)**  
-_(Replace with a real video link or screenshots if available)_
-
+**[Demo Video →](https://drive.google.com/file/d/1wwOFKgHfdNAxGTYiq-BrV7kvksVjxgmm/view?usp=drive_link)**  
 ---
 
 ## 🚀 Setup & Deployment
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/gmail-gemini-addon.git
+git clone https://github.com/MeetAdalaja/MailGenieAI---Gmail-Add-On.git
 cd gmail-gemini-addon
 ```
 ### 2. Install clasp and log in
