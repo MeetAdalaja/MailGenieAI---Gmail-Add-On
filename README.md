@@ -19,8 +19,6 @@ as a **Google Workspace Add‑on** for Gmail.
 - 🌐 **Translate** selected text or the composed reply
 - 📋 **Insert** the generated text into the Gmail reply box with one click
 
-> Exact features depend on the repo version; remove any that don’t apply to your codebase.
-
 ---
 
 
@@ -56,7 +54,6 @@ MailGenieAI---Gmail-Add-On/
 └─ (optional) /docs       # screenshots, flow charts, privacy statement
 ```
 
-> Your file names may differ; adjust this section to match your repo exactly.
 
 ---
 
@@ -134,7 +131,6 @@ TEMPERATURE=0.2
   }
 }
 ```
-> Keep scopes **minimal**. If you only read messages and write drafts, avoid broader Gmail scopes.
 
 ---
 
